@@ -1,0 +1,41 @@
+body{
+    flex-direction: column;
+    display: flex;
+    height: 100vh;
+    font-family: 'Tahoma';
+    background: rgb(214, 16, 56)
+
+}
+
+#gora{
+    
+    text-align: center;
+    color: rgb(255, 255, 255);
+    height: 80%;
+    justify-content: center;
+    letter-spacing: 7px;
+   }
+
+   #mecz {
+    color: white;
+    text-align: center;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+}
+
+
+img{
+    height: 300px;
+    width: 1000px;
+    align-self: center;
+}
+
+#glowny{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 5px;
+}
+
