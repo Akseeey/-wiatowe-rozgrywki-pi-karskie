@@ -1,1 +1,1 @@
-# -wiatowe-rozgrywki-pi-karskie
+# -światowe-rozgrywki-pi-karskie
