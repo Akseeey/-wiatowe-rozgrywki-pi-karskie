@@ -1,1 +1,1 @@
-# -światowe-rozgrywki-pi-karskie
+# -światowe-rozgrywki-pilkarskie
